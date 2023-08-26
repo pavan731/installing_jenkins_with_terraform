@@ -1,8 +1,11 @@
-# installing_jenkins_with_terraform
+# Installing_jenkins_with_terraform
 # Prerequisites
-To follow this tutorial you will need:
 
 The Terraform CLI (1.2.0+) installed.
 The AWS CLI installed.
-Aws access key and private key to loginwith 
+Aws_IAM access key and private key to login with 
 AWS account and associated credentials that allow you to create resources.
+
+#configure aws
+![image](https://github.com/pavan731/installing_jenkins_with_terraform/assets/68803406/45e4c64a-304f-483a-9895-8a0be9ae2e9b)
+
