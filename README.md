@@ -18,7 +18,8 @@ go to terminal
 
 # Initialize terraform
 
-![image](https://github.com/pavan731/installing_jenkins_with_terraform/assets/68803406/a49157e5-ce57-4358-ad39-44dea6ce7c05)
+![image](https://github.com/pavan731/installing_jenkins_with_terraform/assets/68803406/7ebf5b4f-75e6-47c8-bf07-518bfec3dc9e)
+
 
 
 # Terraform apply
