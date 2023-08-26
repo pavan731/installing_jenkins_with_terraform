@@ -10,9 +10,9 @@ AWS account with associated credentials that allow resource creation.
 ![image](https://github.com/pavan731/installing_jenkins_with_terraform/assets/68803406/45e4c64a-304f-483a-9895-8a0be9ae2e9b)
 
 # Creating Terraform Configuration
-Create a main.tf file using the touch command.
-Open the main.tf file with a text editor.
-Paste the provided content inside the main.tf file.
+Create a main.tf file using the touch command.\
+Open the main.tf file with a text editor.\
+Paste the provided content inside the main.tf file.\
 Change the ami_id and required region. Ensure you have an existing S3 bucket with the same name as specified here.
 
 # Initializing Terraform
